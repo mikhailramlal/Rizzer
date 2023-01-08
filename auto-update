@@ -1,0 +1,15 @@
+return {
+	"Roses are red. Violets are fine. You be the six. I’ll be the nine.", -- 1
+	"I was feeling very off today, but then you turned me on.", -- 2 
+	"I have 206 bones in my body. Want to give me another one?", -- 3
+	"I’m not a weatherman, but you can expect a few more inches tonight.", -- 4
+	"Are you an archaeologist? Because I’ve got a large bone for you to examine.", -- 5
+	"Did you make Santa’s naughty list this year? You want to?", -- 6
+	"If you look that good in clothes, you must look even better out of them.", -- 7
+	"I’m an adventurer and I want to explore you.", -- 8
+	"Does your name start with “C” because I can “C” us getting down.", -- 9
+	"Is your name winter? Because you’ll be coming soon.", -- 10
+	"If I was the judge, I’d sentence you to my bed", -- 11
+	"I’m not feeling myself today. Can I feel you instead?", -- 12
+	"Someone should call the police because you just stole my heart!", -- 13
+}
