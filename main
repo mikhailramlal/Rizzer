@@ -4,7 +4,7 @@ end
 
 Rizz_Lines = loadstring(game:HttpGet("https://raw.githubusercontent.com/mikhailramlal/Rizzer/main/auto-update"))()
 
-local lib = loadstring(game:HttpGet("https://raw.githubusercontent.com/hayden-droid/TurtleUiLib-Roblox-Studio/main/TurtleUiLib.lua"))()
+local lib = loadstring(game:HttpGet("https://raw.githubusercontent.com/mikhailramlal/Rizzer/main/ui"))()
 
 local Rizz_Main = lib:Window("Rizzer")
 
