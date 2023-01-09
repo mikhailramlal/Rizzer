@@ -4,7 +4,7 @@ end
 
 Rizz_Lines = loadstring(game:HttpGet("https://raw.githubusercontent.com/mikhailramlal/Rizzer/main/auto-update"))()
 
-local lib = loadstring(game:HttpGet("https://raw.githubusercontent.com/mikhailramlal/Rizzer/main/ui"))()
+local lib = loadstring(game:HttpGet("https://raw.githubusercontent.com/miroeramaa/TurtleLib/main/TurtleUiLib.lua"))()
 
 local Rizz_Main = lib:Window("Rizzer")
 
@@ -18,4 +18,3 @@ end, true)
 Rizz_Main:Button("Rizz" , function() 
     Chat(getgenv().line2)
 end)
-
